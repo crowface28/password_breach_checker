@@ -5,15 +5,15 @@ Plaintext passwords never leave your machine.
 
 https://codecrossroad.blogspot.com/2019/02/python-use-haveibeenpwned-api-to-check.html
 
-Warning: It will display compromised passwords to the screen.  Keep that head on a swivel!
+**Warning: It will display compromised passwords to the screen.  Keep that head on a swivel!**
 
 
 To export from LastPass:
--Go to your Vault
--Go to More Options
--Go to Advanced
--Go to Export
--Copy/paste the text into a file
+  - Go to your Vault
+  - Go to More Options
+  - Go to Advanced
+  - Go to Export
+  - Copy/paste the text into a file
 
 usage: password_breach_checker.py [-h] [-e E] [-f F] [-p P]
 
